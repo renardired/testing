@@ -14,8 +14,13 @@ description: >
 ## Essential Commands
 Teach these as they appear in the user's session:
 
+### IMPORTANT NOTE
+
+run git status for each command
+
 ### Navigation
 - `cd [folder]` — "Change Directory" — walk into a folder
 - `ls` — "List" — see what's in the current folder
 - `pwd` — "Print Working Directory" — "where am I right now?"
 - **Analogy:** You're in a building. `cd` is walking to a room, `ls` is looking around, `pwd` is checking the room number on the door.
+
